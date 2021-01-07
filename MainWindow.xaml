@@ -1,0 +1,24 @@
+﻿<Window x:Class="Kasir_3.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Kasir_3"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <ListBox x:Name="Menu" Margin="47,97,539,83" SelectionChanged="Menu_SelectionChanged"/>
+        <ListBox x:Name="Keranjang" Margin="292,100,297,143" MouseDoubleClick="OnClickMouse" SelectionChanged="Keranjang_SelectionChanged"/>
+        <ListBox x:Name="Diskon" Margin="546,103,19,148" SelectionChanged="Diskon_SelectionChanged"/>
+        <ListBox x:Name="Total" Margin="292,303,298,36"/>
+        <Border BorderThickness="1" BorderBrush="Black" HorizontalAlignment="Left" Height="257" Margin="45,94,0,0" VerticalAlignment="Top" Width="216"/>
+        <Rectangle HorizontalAlignment="Left" Height="301" Margin="46,50,0,0" Stroke="Black" VerticalAlignment="Top" Width="217"/>
+        <Label Content="Daftar Menu" HorizontalAlignment="Left" Margin="107,57,0,0" VerticalAlignment="Top"/>
+        <Rectangle HorizontalAlignment="Center" Height="346" Margin="0,52,0,0" Stroke="Black" VerticalAlignment="Top" Width="231"/>
+        <Label Content="Order" HorizontalAlignment="Left" Margin="372,56,0,0" VerticalAlignment="Top"/>
+        <Rectangle HorizontalAlignment="Left" Height="229" Margin="546,55,0,0" Stroke="Black" VerticalAlignment="Top" Width="236"/>
+        <Label Content="Diskon" HorizontalAlignment="Left" Margin="638,67,0,0" VerticalAlignment="Top"/>
+        <Rectangle HorizontalAlignment="Left" Height="177" Margin="547,105,0,0" Stroke="Black" VerticalAlignment="Top" Width="235"/>
+
+    </Grid>
+</Window>

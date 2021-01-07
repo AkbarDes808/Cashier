@@ -1,0 +1,38 @@
+E:\Kampus\Program\Kasir 3\bin\Debug\netcoreapp3.1\Kasir 3.exe
+E:\Kampus\Program\Kasir 3\bin\Debug\netcoreapp3.1\Kasir 3.deps.json
+E:\Kampus\Program\Kasir 3\bin\Debug\netcoreapp3.1\Kasir 3.runtimeconfig.json
+E:\Kampus\Program\Kasir 3\bin\Debug\netcoreapp3.1\Kasir 3.runtimeconfig.dev.json
+E:\Kampus\Program\Kasir 3\bin\Debug\netcoreapp3.1\Kasir 3.dll
+E:\Kampus\Program\Kasir 3\bin\Debug\netcoreapp3.1\Kasir 3.pdb
+E:\Kampus\Program\Kasir 3\obj\Debug\netcoreapp3.1\Kasir 3.csprojAssemblyReference.cache
+E:\Kampus\Program\Kasir 3\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+E:\Kampus\Program\Kasir 3\obj\Debug\netcoreapp3.1\App.g.cs
+E:\Kampus\Program\Kasir 3\obj\Debug\netcoreapp3.1\Kasir 3_MarkupCompile.cache
+E:\Kampus\Program\Kasir 3\obj\Debug\netcoreapp3.1\Kasir 3_MarkupCompile.lref
+E:\Kampus\Program\Kasir 3\obj\Debug\netcoreapp3.1\MainWindow.baml
+E:\Kampus\Program\Kasir 3\obj\Debug\netcoreapp3.1\Kasir 3.g.resources
+E:\Kampus\Program\Kasir 3\obj\Debug\netcoreapp3.1\Kasir 3.AssemblyInfoInputs.cache
+E:\Kampus\Program\Kasir 3\obj\Debug\netcoreapp3.1\Kasir 3.AssemblyInfo.cs
+E:\Kampus\Program\Kasir 3\obj\Debug\netcoreapp3.1\Kasir 3.csproj.CoreCompileInputs.cache
+E:\Kampus\Program\Kasir 3\obj\Debug\netcoreapp3.1\Kasir 3.dll
+E:\Kampus\Program\Kasir 3\obj\Debug\netcoreapp3.1\Kasir 3.pdb
+E:\Kampus\Program\Kasir 3\obj\Debug\netcoreapp3.1\Kasir 3.genruntimeconfig.cache
+E:\Kampus\Program\Kasir3\bin\Debug\netcoreapp3.1\Kasir 3.exe
+E:\Kampus\Program\Kasir3\bin\Debug\netcoreapp3.1\Kasir 3.deps.json
+E:\Kampus\Program\Kasir3\bin\Debug\netcoreapp3.1\Kasir 3.runtimeconfig.json
+E:\Kampus\Program\Kasir3\bin\Debug\netcoreapp3.1\Kasir 3.runtimeconfig.dev.json
+E:\Kampus\Program\Kasir3\bin\Debug\netcoreapp3.1\Kasir 3.dll
+E:\Kampus\Program\Kasir3\bin\Debug\netcoreapp3.1\Kasir 3.pdb
+E:\Kampus\Program\Kasir3\obj\Debug\netcoreapp3.1\Kasir 3.csprojAssemblyReference.cache
+E:\Kampus\Program\Kasir3\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+E:\Kampus\Program\Kasir3\obj\Debug\netcoreapp3.1\App.g.cs
+E:\Kampus\Program\Kasir3\obj\Debug\netcoreapp3.1\Kasir 3_MarkupCompile.cache
+E:\Kampus\Program\Kasir3\obj\Debug\netcoreapp3.1\Kasir 3_MarkupCompile.lref
+E:\Kampus\Program\Kasir3\obj\Debug\netcoreapp3.1\MainWindow.baml
+E:\Kampus\Program\Kasir3\obj\Debug\netcoreapp3.1\Kasir 3.g.resources
+E:\Kampus\Program\Kasir3\obj\Debug\netcoreapp3.1\Kasir 3.AssemblyInfoInputs.cache
+E:\Kampus\Program\Kasir3\obj\Debug\netcoreapp3.1\Kasir 3.AssemblyInfo.cs
+E:\Kampus\Program\Kasir3\obj\Debug\netcoreapp3.1\Kasir 3.csproj.CoreCompileInputs.cache
+E:\Kampus\Program\Kasir3\obj\Debug\netcoreapp3.1\Kasir 3.dll
+E:\Kampus\Program\Kasir3\obj\Debug\netcoreapp3.1\Kasir 3.pdb
+E:\Kampus\Program\Kasir3\obj\Debug\netcoreapp3.1\Kasir 3.genruntimeconfig.cache
